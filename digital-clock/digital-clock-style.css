@@ -1,0 +1,9 @@
+.clock {
+    position: relative;
+    top: 35vh;
+    margin: auto;
+    font-size: 5vw;
+    border: 20px solid blue;
+    display: flex;
+    justify-content: center;
+}
